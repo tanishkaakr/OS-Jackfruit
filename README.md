@@ -258,4 +258,4 @@ Ctrl + C
 - Improve CLI with more commands
 
 ## Authors
-Pallavi B , Kirthana S
+KR TANISHKAA, PAVITHRA B
