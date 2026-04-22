@@ -1,4 +1,4 @@
-# Mini Container Runtime (OS Jackfruit Project)
+# Multi Container Runtime (OS Jackfruit Project)
 
 ## 👩‍💻 Overview
 This project implements a minimal container runtime in C along with a Linux kernel module for memory monitoring.
